@@ -1,1 +1,9 @@
-# Lab-1and-2
+This project explores the practical application of Generative Artificial Intelligence in the aviation and airline-management industry. As a BBA Aviation Management student, I developed this project to understand how AI can support aviation business processes, passenger services, communication, decision-making, and operational activities.
+
+The project focuses on understanding the difference between Traditional AI and Generative AI. Traditional AI is generally used for tasks such as prediction, classification, detection, recommendation, forecasting, and optimisation, while Generative AI can create new content such as emails, summaries, advertisements, presentations, and passenger communications. The project demonstrates how both technologies can work together in aviation—for example, Traditional AI can predict a potential flight delay, while Generative AI can create a professional passenger notification based on verified information.
+
+Another important area covered is the difference between retrieved and generated information. The project highlights that aviation information such as flight timings, baggage policies, passenger details, gate numbers, and weather information should be obtained from reliable or official sources. AI-generated content should be reviewed and verified before professional use, particularly when it relates to safety, operations, compliance, or passenger rights.
+
+The project also includes a comparison of ChatGPT and Google Gemini using an aviation ground-handling prompt. Both tools were evaluated based on clarity, instruction-following, aviation terminology, practical examples, and usefulness.
+
+Overall, this project demonstrates how Generative AI can be responsibly integrated into aviation management while maintaining human review and decision-making. It reflects my interest in combining aviation-management knowledge with emerging AI technologies to solve practical business problems and improve professional communication, passenger experience, and operational support.
